@@ -1,0 +1,48 @@
+body{
+    margin: 0px;
+    background-color: rgb(238, 238, 238);
+}
+
+header{
+    font-size: 25px;
+    font-family: "Verdana", Times, serif;
+    height:120px;
+    background-color: white;
+}
+
+#logo{
+    display: inline;
+    margin-right:0px;
+    margin-top: 40px;
+}
+
+h1{
+    display: inline;
+    margin-left: 7px;
+}
+
+#container{
+    background-color: white;
+}
+
+#firstb{
+    background-color: rgb(114, 163, 226);
+    border-radius: 8px;
+    width:fit-content;
+    padding: 7px 15px;
+    color:white;
+    font-family: "Verdana", Times, serif;
+    font-size:15px;
+}
+
+#secondb{
+    background-color: white;
+    border-style: solid;
+    border-color: rgb(238, 238, 238);
+    border-radius: 8px;
+    width:fit-content;
+    padding: 7px 19px;
+    color:rgb(238, 238, 238);
+    font-family: "Verdana", Times, serif;
+    font-size:15px;
+}
