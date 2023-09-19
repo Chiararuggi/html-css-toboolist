@@ -20,6 +20,7 @@ header{
 h1{
     display: inline;
     margin-left: 7px;
+    letter-spacing: -2px;
 }
 
 #firstcontainer{
@@ -61,6 +62,7 @@ h1{
     width: 60%;
     margin-top: 3px;
     padding: 20px;
+    margin-bottom: 18px;
 }
 
 .list{
@@ -88,4 +90,63 @@ h2{
     padding: 7px 15px;
     color:white;
     font-size:11px;
+}
+
+.false{
+    color:rgb(238, 37, 37);
+    border-style: solid;
+    border-color: rgb(238, 37, 37);
+    border-width: 1px;
+    border-radius: 50%;
+    padding: 1px 3.5px;
+    font-size: 12px;
+}
+
+.q1goalsclass{
+    background-color: rgb(170, 131, 233);
+    border-radius: 13px;
+    width:fit-content;
+    padding: 7px 15px;
+    color:white;
+    font-size:11px;
+}
+
+.recruitingclass{
+    background-color: rgb(67, 211, 156);
+    border-radius: 13px;
+    width:fit-content;
+    padding: 7px 15px;
+    color:white;
+    font-size:11px;
+}
+
+.mobileclass{
+    background-color: rgb(238, 169, 79);
+    border-radius: 13px;
+    width:fit-content;
+    padding: 7px 15px;
+    color:white;
+    font-size:11px;
+}
+
+.websiteclass{
+    background-color: rgb(240, 92, 153);
+    border-radius: 13px;
+    width:fit-content;
+    padding: 7px 15px;
+    color:white;
+    font-size:11px;
+}
+
+.salesclass{
+    background-color: rgb(160, 226, 106);
+    border-radius: 13px;
+    width:fit-content;
+    padding: 7px 15px;
+    color:white;
+    font-size:11px;
+}
+
+.margin{
+    margin-bottom: 15px;
 }
