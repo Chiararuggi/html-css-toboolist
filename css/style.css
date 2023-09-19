@@ -7,7 +7,7 @@ body{
 header{
     font-size: 25px;
     font-family: "Verdana", Times, serif;
-    height:120px;
+    height:110px;
     background-color: white;
 }
 
@@ -71,6 +71,8 @@ h1{
 
 h2{
     letter-spacing: -1px;
+    margin-bottom:10px;
+    font-size: 18px;
 }
 
 .true{
